@@ -21,7 +21,7 @@ You'll choose a side, and your progression will diverge based on that choice. En
 
 ---
 
-## ⚔️ Features
+## Features
 
 - **26+ custom bosses** with unique AI, attack patterns, and loot
 - **Factions**: Choose between Order or Chaos, with distinct allies, arenas, and equipment
@@ -34,7 +34,7 @@ You'll choose a side, and your progression will diverge based on that choice. En
 
 ---
 
-## 🛠️ Current Status
+## Current Status
 
 The Reckoning is in active development. We are currently:
 - Implementing the base code for boss AI, summoning items, and weapons
@@ -59,6 +59,7 @@ We're building something massive, and we need passionate contributors to help br
 Join our Discord server and say hi! Whether you’re a seasoned modder or just passionate about Terraria, you’re welcome here.
 
  **Discord**: https://discord.gg/ttRCJwnh
+ 
  **TModLoader Repo**: https://github.com/Skryllx/TheReckoningMod
 
 ---
